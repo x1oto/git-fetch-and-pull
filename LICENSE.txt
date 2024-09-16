@@ -1,0 +1,5 @@
+All rights reserved.
+
+This code is proprietary and may not be copied, distributed, modified, or used in any form without explicit permission from the author. Viewing the code is permitted, but no part of it may be used for commercial or non-commercial purposes.
+
+For inquiries regarding usage rights, please contact dev@dev.com
